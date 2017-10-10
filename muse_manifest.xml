@@ -1,0 +1,456 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scroll-effects.com" resolutions="1x" timestamp="1507643983004">
+  <folder name="css">
+    <file name="site_global.css" crc="4251686967"/>
+    <file name="begin_egde.css" crc="282061062" ref="begin_egde"/>
+    <file name="index.css" crc="3853919916" ref="index"/>
+    <file name="iefonts_index.css" crc="534287730" ref="index"/>
+    <file name="slideshow.css" crc="4201486232" ref="slideshow"/>
+    <file name="begin_slideshow.css" crc="4016035067" ref="begin_slideshow"/>
+    <file name="light.css" crc="477578585" ref="light"/>
+    <file name="begin_light.css" crc="294366696" ref="begin_light"/>
+    <file name="begin_opacity.css" crc="128755894" ref="begin_opacity"/>
+    <file name="opacity.css" crc="4274725793" ref="opacity"/>
+    <file name="type.css" crc="192170829" ref="type"/>
+    <file name="edge-animation.css" crc="3843593141" ref="edge-animation"/>
+    <file name="begin_motion.css" crc="4080856781" ref="begin_motion"/>
+    <file name="begin_type.css" crc="3766478988" ref="begin_type"/>
+    <file name="motion.css" crc="3760407692" ref="motion"/>
+  </folder>
+  <folder name="assets">
+    <folder name="devices-lab-animation">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4231652741" mt="1408505752000"/>
+        <file name="jquery-2.0.3.min.js" crc="155013199" mt="1408505752000"/>
+      </folder>
+      <folder name="images">
+        <file name="DEVICES.png" crc="3923202385" mt="1408505752000"/>
+        <file name="DEVICES2.png" crc="3821743189" mt="1408505752000"/>
+        <file name="fluid-2.png" crc="54196275" mt="1408505752000"/>
+        <file name="fluid-22.png" crc="415835838" mt="1408505752000"/>
+        <file name="fluid-3.png" crc="219057624" mt="1408505752000"/>
+        <file name="fluid1.png" crc="121317746" mt="1408505752000"/>
+        <file name="Muse-icon.png" crc="4133038839" mt="1408505752000"/>
+        <file name="Poster.png" crc="82990175" mt="1408505752000"/>
+      </folder>
+      <file name="DEVICES-LAB-ANIMATION_edge.js" crc="3827846580" mt="1408505752000"/>
+      <file name="DEVICES-LAB-ANIMATION_edgeActions.js" crc="240122589" mt="1408505752000"/>
+      <file name="DEVICES-LAB-ANIMATION_edgePreload.js" crc="3779568823" mt="1408505752000"/>
+      <file name="DEVICES-LAB-ANIMATION.html" crc="4161860448" mt="1408505752000"/>
+    </folder>
+    <folder name="edge_labs_iphone">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4231652741" mt="1409375774000"/>
+        <file name="jquery-2.0.3.min.js" crc="155013199" mt="1409375774000"/>
+      </folder>
+      <folder name="images">
+        <file name="EDGE_LABS_BKG_PHONE.png" crc="3884282353" mt="1409375774000"/>
+        <file name="EDGE_LABS_BKG_PHONE2.png" crc="3870886444" mt="1409375774000"/>
+        <file name="Liguid_phone-1.png" crc="4090604120" mt="1409375774000"/>
+        <file name="Liquid_phone-2.png" crc="3813474829" mt="1409375774000"/>
+        <file name="Muse-icon.png" crc="4133038839" mt="1409375774000"/>
+        <file name="Poster.png" crc="225772059" mt="1409375774000"/>
+      </folder>
+      <folder name="EDGE_LABS_BKG_PHONE_IMAGES">
+        <file name="Muse-icon.png" crc="4133038839" mt="1409375774000"/>
+      </folder>
+      <file name="EDGE_LABS_IPHONE_edge.js" crc="410993259" mt="1409375774000"/>
+      <file name="EDGE_LABS_IPHONE_edgeActions.js" crc="487199256" mt="1409375774000"/>
+      <file name="EDGE_LABS_IPHONE_edgePreload.js" crc="446743653" mt="1409375774000"/>
+      <file name="EDGE_LABS_IPHONE.html" crc="308602110" mt="1409375774000"/>
+    </folder>
+    <file name="disabler_qooqee_widgets.mulib" crc="3769498910" seo="true" mt="1410033422000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>edge_animation:phone>motion:phone>opacity_2:phone>type:phone>light:phone>slideshow:phone>index:phone>begin_motion:phone>begin_light:phone>begin_type:phone>begin_opacity:phone>begin_slidehow:index:light:type:opacity:edge-animation:slideshow:motion:begin_motion:begin_type:begin_opacity:begin_egde:begin_slideshow:begin_light"/>
+    <file name="museutils.js" crc="17924269" ref="phone>edge_animation:phone>motion:phone>opacity_2:phone>type:phone>light:phone>slideshow:phone>index:phone>begin_motion:phone>begin_light:phone>begin_type:phone>begin_opacity:phone>begin_slidehow:index:light:type:opacity:edge-animation:slideshow:motion:begin_motion:begin_type:begin_opacity:begin_egde:begin_slideshow:begin_light"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>edge_animation:phone>motion:phone>opacity_2:phone>type:phone>light:phone>slideshow:phone>index:phone>begin_motion:phone>begin_light:phone>begin_type:phone>begin_opacity:phone>begin_slidehow:index:light:type:opacity:edge-animation:slideshow:motion:begin_motion:begin_type:begin_opacity:begin_egde:begin_slideshow:begin_light"/>
+    <file name="museconfig.js" crc="278381782" ref="phone>edge_animation:phone>motion:phone>opacity_2:phone>type:phone>light:phone>slideshow:phone>index:phone>begin_motion:phone>begin_light:phone>begin_type:phone>begin_opacity:phone>begin_slidehow:index:light:type:opacity:edge-animation:slideshow:motion:begin_motion:begin_type:begin_opacity:begin_egde:begin_slideshow:begin_light"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="phone>edge_animation:phone>motion:phone>opacity_2:phone>type:phone>light:phone>slideshow:phone>index:phone>begin_motion:phone>begin_light:phone>begin_type:phone>begin_opacity:phone>begin_slidehow:index:light:type:opacity:edge-animation:slideshow:motion:begin_motion:begin_type:begin_opacity:begin_egde:begin_slideshow:begin_light"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="phone>edge_animation:phone>motion:phone>opacity_2:phone>type:phone>light:phone>slideshow:phone>index:phone>begin_motion:phone>begin_light:phone>begin_type:phone>begin_opacity:phone>begin_slidehow:index:light:type:opacity:edge-animation:slideshow:motion:begin_type:begin_egde:begin_light"/>
+    <file name="require.js" crc="3861931657" ref="phone>edge_animation:phone>motion:phone>opacity_2:phone>type:phone>light:phone>slideshow:phone>index:phone>begin_motion:phone>begin_light:phone>begin_type:phone>begin_opacity:phone>begin_slidehow:index:light:type:opacity:edge-animation:slideshow:motion:begin_motion:begin_type:begin_opacity:begin_egde:begin_slideshow:begin_light"/>
+    <file name="webpro.js" crc="416662029" ref="phone>slideshow:index:slideshow"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="phone>slideshow:index:slideshow"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="phone>slideshow:index:slideshow"/>
+    <file name="touchswipe.js" crc="432264157" ref="phone>slideshow:index:slideshow"/>
+  </folder>
+  <folder name="images">
+    <file name="u5383.png" crc="198972998" ref="phone>edge_animation"/>
+    <file name="u5383-r.png" crc="4020874409" ref="phone>edge_animation"/>
+    <file name="plane361x178.png" crc="4288281662" seo="true" ref="phone>motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="blimp-specs230x492.png" crc="4122504099" seo="true" ref="phone>motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="parachute.png" crc="392757920" seo="true" ref="phone>motion:phone>begin_motion:motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="blimp_heart.png" crc="272179716" seo="true" ref="phone>motion:phone>begin_motion:motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="blimp.png" crc="436206251" seo="true" ref="phone>motion:phone>index:phone>begin_motion:index:motion:begin_motion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+    </file>
+    <file name="ballon.png" crc="6821024" seo="true" ref="phone>motion:phone>index:phone>begin_motion:index:motion:begin_motion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+    </file>
+    <file name="jumping_fish.png" crc="4159815220" seo="true" ref="phone>motion:phone>begin_motion:motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="fish_3.png" crc="4079322376" seo="true" ref="phone>motion:phone>index:phone>begin_motion:index:motion:begin_motion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+    </file>
+    <file name="fish_2.png" crc="175714127" seo="true" ref="phone>motion:phone>begin_motion:motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="fish_1214x134.png" crc="3878136423" seo="true" ref="phone>motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="u4190.png" crc="198972998" ref="phone>motion"/>
+    <file name="u4190-r.png" crc="4020874409" ref="phone>motion"/>
+    <file name="arrow-u2304.png" crc="531686294" ref="phone>motion"/>
+    <file name="plane_specs356x368.png" crc="4280816952" seo="true" ref="phone>motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="parachute_specs175x436.png" crc="80694981" seo="true" ref="phone>motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="cloud-crop-u2288.png" crc="3978350306" seo="true" ref="phone>motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="water-2.png" crc="4032237146" ref="phone>motion:phone>index:phone>begin_motion:index:motion:begin_motion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+    </file>
+    <file name="water-1.png" crc="419300670" ref="phone>motion:phone>index:phone>begin_motion:index:motion:begin_motion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+    </file>
+    <file name="jumping_specs220x342.png" crc="313003512" seo="true" ref="phone>motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="cloud-crop-u2290.png" crc="3906737835" seo="true" ref="phone>motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="circle_icon-u2332.png" crc="4075255850" ref="phone>motion"/>
+    <file name="anchor.png" crc="135199873" seo="true" ref="phone>motion:phone>begin_motion:motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="u5375.png" crc="198972998" ref="phone>opacity_2"/>
+    <file name="u5375-r.png" crc="4020874409" ref="phone>opacity_2"/>
+    <file name="sqaure_icon.jpg" crc="3950528549" seo="true" ref="phone>opacity_2:phone>begin_opacity:opacity:begin_opacity">
+      <caption webpage="opacity_2" alt=""/>
+      <caption webpage="opacity" alt=""/>
+      <caption webpage="begin_opacity" alt=""/>
+      <caption webpage="begin_opacity" alt=""/>
+    </file>
+    <file name="u5371.png" crc="198972998" ref="phone>type"/>
+    <file name="u5371-r.png" crc="4020874409" ref="phone>type"/>
+    <file name="line-u2164-fr.png" crc="4245664851" ref="phone>type:phone>begin_type:type:begin_type"/>
+    <file name="circle_icon-u2199.png" crc="287071959" ref="phone>type"/>
+    <file name="circle_icon.png" crc="315519145" seo="true" ref="phone>light:phone>index:phone>begin_light:index:light:begin_light">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="light" alt=""/>
+      <caption webpage="light" alt=""/>
+      <caption webpage="begin_light" alt=""/>
+      <caption webpage="begin_light" alt=""/>
+    </file>
+    <file name="u5367.png" crc="198972998" ref="phone>light"/>
+    <file name="u5367-r.png" crc="4020874409" ref="phone>light"/>
+    <file name="light-bulb.png" crc="213528224" seo="true" ref="phone>light:phone>index:phone>begin_light:index:light:begin_light">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="light" alt=""/>
+      <caption webpage="light" alt=""/>
+      <caption webpage="begin_light" alt=""/>
+      <caption webpage="begin_light" alt=""/>
+    </file>
+    <file name="arrow.png" crc="429808164" seo="true" ref="phone>light:phone>begin_light">
+      <caption webpage="begin_light" alt=""/>
+      <caption webpage="light" alt=""/>
+    </file>
+    <file name="slideshow_01_phone.jpg" crc="513255726" seo="true" ref="phone>slideshow">
+      <caption webpage="slideshow" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>slideshow:slideshow"/>
+    <file name="slideshow_02.jpg" crc="211851435" seo="true" ref="phone>slideshow:slideshow">
+      <caption webpage="slideshow" alt=""/>
+      <caption webpage="slideshow" alt=""/>
+    </file>
+    <file name="slideshow_03.jpg" crc="4282286810" seo="true" ref="phone>slideshow:slideshow">
+      <caption webpage="slideshow" alt=""/>
+      <caption webpage="slideshow" alt=""/>
+    </file>
+    <file name="slideshow_04.jpg" crc="3888072264" seo="true" ref="phone>slideshow:slideshow">
+      <caption webpage="slideshow" alt=""/>
+      <caption webpage="slideshow" alt=""/>
+    </file>
+    <file name="slideshow_05.jpg" crc="61006051" seo="true" ref="phone>slideshow:slideshow">
+      <caption webpage="slideshow" alt=""/>
+      <caption webpage="slideshow" alt=""/>
+    </file>
+    <file name="slideshow_06.jpg" crc="440908084" seo="true" ref="phone>slideshow:slideshow">
+      <caption webpage="slideshow" alt=""/>
+      <caption webpage="slideshow" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>slideshow:slideshow"/>
+    <file name="u5379.png" crc="198972998" ref="phone>slideshow"/>
+    <file name="u5379-r.png" crc="4020874409" ref="phone>slideshow"/>
+    <file name="home-page-plane-crop-u4097.png" crc="3950625231" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-page-parachute-crop-u3909.png" crc="4022283454" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blimp_heart-crop-u3912.png" crc="139971029" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jumping_fish-crop-u3927.png" crc="3918961929" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fish_1-crop-u3931.png" crc="310052605" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_02364x334.jpg" crc="487994559" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="devices2-crop-u4078.png" crc="34885227" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow-u4958.png" crc="531686294" ref="phone>begin_motion"/>
+    <file name="cloud-crop-u5007.png" crc="3978350306" seo="true" ref="phone>begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+    </file>
+    <file name="cloud-crop-u4994.png" crc="3906737835" seo="true" ref="phone>begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+    </file>
+    <file name="circle_icon-u4954.png" crc="4075255850" ref="phone>begin_motion"/>
+    <file name="u5000.png" crc="198972998" ref="phone>begin_motion"/>
+    <file name="u5000-r.png" crc="4020874409" ref="phone>begin_motion"/>
+    <file name="u5050.png" crc="198972998" ref="phone>begin_light"/>
+    <file name="u5050-r.png" crc="4020874409" ref="phone>begin_light"/>
+    <file name="u5119.png" crc="198972998" ref="phone>begin_type"/>
+    <file name="u5119-r.png" crc="4020874409" ref="phone>begin_type"/>
+    <file name="circle_icon-u5125.png" crc="287071959" ref="phone>begin_type"/>
+    <file name="u5170.png" crc="198972998" ref="phone>begin_opacity"/>
+    <file name="u5170-r.png" crc="4020874409" ref="phone>begin_opacity"/>
+    <file name="u5230.png" crc="198972998" ref="phone>begin_slidehow"/>
+    <file name="u5230-r.png" crc="4020874409" ref="phone>begin_slidehow"/>
+    <file name="line.png" crc="3802612476" ref="index:light:type:opacity:edge-animation:motion:begin_motion:begin_type:begin_opacity:begin_egde:begin_light">
+      <caption webpage="begin_type" alt=""/>
+      <caption webpage="edge-animation" alt=""/>
+      <caption webpage="begin_egde" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="light" alt=""/>
+      <caption webpage="begin_opacity" alt=""/>
+      <caption webpage="type" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="opacity" alt=""/>
+      <caption webpage="begin_light" alt=""/>
+    </file>
+    <file name="cloud.png" crc="206865891" seo="true" ref="index:motion:begin_motion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="begin_motion" alt=""/>
+    </file>
+    <file name="home-page-parachute-crop-u3021.png" crc="4109091880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-page-plane-crop-u3750.png" crc="3950625231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blimp_heart-crop-u3122.png" crc="139971029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fish_1-crop-u3252.png" crc="310052605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jumping_fish-crop-u3134.png" crc="4282644742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="devices2-crop-u3681.png" crc="34885227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5348.png" crc="215172329" ref="light"/>
+    <file name="u5348-r.png" crc="215172329" ref="light"/>
+    <file name="u3801.png" crc="142647025" ref="light"/>
+    <file name="u3801-r.png" crc="469534028" ref="light"/>
+    <file name="slide_in.png" crc="28509526" seo="true" ref="type">
+      <caption webpage="type" alt=""/>
+    </file>
+    <file name="u3805.png" crc="142647025" ref="type"/>
+    <file name="u3805-r.png" crc="469534028" ref="type"/>
+    <file name="ready_set_go.png" crc="77792301" seo="true" ref="type">
+      <caption webpage="type" alt=""/>
+    </file>
+    <file name="cometogether.png" crc="4064836664" seo="true" ref="type">
+      <caption webpage="type" alt=""/>
+    </file>
+    <file name="circle_icon-u681.png" crc="287071959" ref="type"/>
+    <file name="u3809.png" crc="142647025" ref="opacity"/>
+    <file name="u3809-r.png" crc="469534028" ref="opacity"/>
+    <file name="u3817.png" crc="142647025" ref="edge-animation"/>
+    <file name="u3817-r.png" crc="469534028" ref="edge-animation"/>
+    <file name="slideshow_01.jpg" crc="513255726" seo="true" ref="slideshow">
+      <caption webpage="slideshow" alt=""/>
+    </file>
+    <file name="u3813.png" crc="142647025" ref="slideshow"/>
+    <file name="u3813-r.png" crc="469534028" ref="slideshow"/>
+    <file name="u5406.png" crc="522243427" ref="slideshow"/>
+    <file name="u5406-r.png" crc="4063317770" ref="slideshow"/>
+    <file name="carrot-crop-u1861.png" crc="3866820957" seo="true" ref="slideshow">
+      <caption webpage="slideshow" alt=""/>
+    </file>
+    <file name="plane.png" crc="14925323" seo="true" ref="motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="blimp-specs.png" crc="4122504099" seo="true" ref="motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="fish_1.png" crc="4072424941" seo="true" ref="motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="u3789.png" crc="142647025" ref="motion"/>
+    <file name="u3789-r.png" crc="469534028" ref="motion"/>
+    <file name="arrow-u2845.png" crc="240042956" ref="motion"/>
+    <file name="plane_specs.png" crc="4280816952" seo="true" ref="motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="parachute_specs.png" crc="80694981" seo="true" ref="motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="jumping_specs.png" crc="313003512" seo="true" ref="motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="circle_icon-u2839.png" crc="4075255850" ref="motion"/>
+    <file name="bottle.png" crc="3939094522" seo="true" ref="motion:begin_motion">
+      <caption webpage="begin_motion" alt=""/>
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="arrow-u4554.png" crc="240042956" ref="begin_motion"/>
+    <file name="circle_icon-u4524.png" crc="4075255850" ref="begin_motion"/>
+    <file name="u4514.png" crc="142647025" ref="begin_motion"/>
+    <file name="u4514-r.png" crc="469534028" ref="begin_motion"/>
+    <file name="u4726.png" crc="142647025" ref="begin_type"/>
+    <file name="u4726-r.png" crc="469534028" ref="begin_type"/>
+    <file name="circle_icon-u4714.png" crc="287071959" ref="begin_type"/>
+    <file name="u4776.png" crc="142647025" ref="begin_opacity"/>
+    <file name="u4776-r.png" crc="469534028" ref="begin_opacity"/>
+    <file name="u4890.png" crc="142647025" ref="begin_egde"/>
+    <file name="u4890-r.png" crc="469534028" ref="begin_egde"/>
+    <file name="u5471.png" crc="142647025" ref="begin_slideshow"/>
+    <file name="u5471-r.png" crc="469534028" ref="begin_slideshow"/>
+    <file name="u5422.png" crc="522243427" ref="begin_slideshow"/>
+    <file name="u5422-r.png" crc="4063317770" ref="begin_slideshow"/>
+    <file name="carrot-crop-u5465.png" crc="3866820957" seo="true" ref="begin_slideshow">
+      <caption webpage="begin_slideshow" alt=""/>
+    </file>
+    <file name="u5499.png" crc="215172329" ref="begin_light"/>
+    <file name="u5499-r.png" crc="215172329" ref="begin_light"/>
+    <file name="u5534.png" crc="142647025" ref="begin_light"/>
+    <file name="u5534-r.png" crc="469534028" ref="begin_light"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="529942741" ref="phone>index"/>
+      <file name="slideshow.css" crc="4294747258" ref="phone>slideshow"/>
+      <file name="motion.css" crc="17992284" ref="phone>motion"/>
+      <file name="begin_type.css" crc="4262686253" ref="phone>begin_type"/>
+      <file name="begin_light.css" crc="4145049931" ref="phone>begin_light"/>
+      <file name="light.css" crc="335047927" ref="phone>light"/>
+      <file name="opacity_2.css" crc="3994934302" ref="phone>opacity_2"/>
+      <file name="begin_opacity.css" crc="375689393" ref="phone>begin_opacity"/>
+      <file name="begin_slidehow.css" crc="427201769" ref="phone>begin_slidehow"/>
+      <file name="edge_animation.css" crc="3992622893" ref="phone>edge_animation"/>
+      <file name="type.css" crc="206722998" ref="phone>type"/>
+      <file name="begin_motion.css" crc="300596117" ref="phone>begin_motion"/>
+    </folder>
+    <file name="edge_animation.html" crc="178889528" seo="true" mt="1420829182279" redirect="true"/>
+    <file name="motion.html" crc="476915906" seo="true" mt="1412527742527" redirect="true"/>
+    <file name="opacity_2.html" crc="3947136156" seo="true" mt="1412527428547" redirect="true"/>
+    <file name="type.html" crc="530514599" seo="true" mt="1412527719611" redirect="true"/>
+    <file name="light.html" crc="29900015" seo="true" mt="1419013990862" redirect="true"/>
+    <file name="slideshow.html" crc="4036376983" seo="true" mt="1412527803883" redirect="true"/>
+    <file name="index.html" crc="3932363900" seo="true" mt="1423614256730" redirect="true"/>
+    <file name="begin_motion.html" crc="192355871" seo="true" mt="1412527742394" redirect="true"/>
+    <file name="begin_light.html" crc="3973987604" seo="true" mt="1419013990355" redirect="true"/>
+    <file name="begin_type.html" crc="12011533" seo="true" mt="1412527719661" redirect="true"/>
+    <file name="begin_opacity.html" crc="3909883814" seo="true" mt="1412527429037" redirect="true"/>
+    <file name="begin_slidehow.html" crc="460099685" seo="true" mt="1412527428936" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3852631432" seo="true" mt="1507643947608" redirect="true"/>
+  <file name="light.html" crc="3909282485" seo="true" mt="1419013991151" redirect="true"/>
+  <file name="type.html" crc="3978260023" seo="true" mt="1412527777740" redirect="true"/>
+  <file name="opacity.html" crc="4262387808" seo="true" mt="1412527719440" redirect="true"/>
+  <file name="edge-animation.html" crc="229716727" seo="true" mt="1420829145934" redirect="true"/>
+  <file name="slideshow.html" crc="423470342" seo="true" mt="1412527813410" redirect="true"/>
+  <file name="motion.html" crc="4064955368" seo="true" mt="1420831873429" redirect="true"/>
+  <file name="begin_motion.html" crc="120708291" seo="true" mt="1420831767277" redirect="true"/>
+  <file name="begin_type.html" crc="116122448" seo="true" mt="1412575784190" redirect="true"/>
+  <file name="begin_opacity.html" crc="310508383" seo="true" mt="1412527719549" redirect="true"/>
+  <file name="begin_egde.html" crc="4182144448" seo="true" mt="1420829145933" redirect="true"/>
+  <file name="begin_slideshow.html" crc="469874662" seo="true" mt="1412527527735" redirect="true"/>
+  <file name="begin_light.html" crc="4133440544" seo="true" mt="1419013989783" redirect="true"/>
+</manifest>
